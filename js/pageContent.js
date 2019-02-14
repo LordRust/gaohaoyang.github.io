@@ -2,23 +2,23 @@
 
 /**
  * [fixSidebar description]
- * 滚轮滚到一定位置时，将 sidebar-wrap 添加 fixed 样式
- * 反之，取消样式
+ * Add sidebar-wrap to fixed style when the wheel is rolled to a certain position
+ * Conversely, cancel the style
  */
 (function() {
     if (window.innerWidth > 770) {
 
         var sidebarWrap = document.querySelector('.right>.wrap')
 
-        //fix 之后百分比宽度会失效，这里用js赋予宽度
+        //fix After that, the percentage width will be invalid. Here, the width is given by js.
         sidebarWrap.style.width = sidebarWrap.offsetWidth + "px"
         window.onscroll = function() {
 
-            // 页面顶部滚进去的距离
+            // The distance that the top of the page rolls in
             var scrollTop = Math.max(document.documentElement.scrollTop, document.body.scrollTop)
 
 
-            // 页面底部滚进去的距离
+            // The distance that the bottom of the page rolls in
             var htmlHeight = Math.max(document.body.clientHeight, document.documentElement.clientHeight)
                 // console.log(htmlHeight);
             var scrollBottom = htmlHeight - window.innerHeight - scrollTop
@@ -29,18 +29,18 @@
             } else if (scrollBottom >= (190 - 38)) {
                 sidebarWrap.classList.remove('scroll-bottom')
                 sidebarWrap.classList.add('fixed')
-            } else if (isMaxHeight()) { //content 达到maxHeight
+            } else if (isMaxHeight()) { //content acheive maxHeight
                 sidebarWrap.classList.remove('fixed')
                 sidebarWrap.classList.add('scroll-bottom')
             }
         }
-        setContentMaxHeightInPC() //设置目录最大高度(PC端)
+        setContentMaxHeightInPC() // Set the maximum height of the directory (PC side)
     }
-    moveTOC() //将Content内容转移
+    moveTOC() // Transfer Content content
 }());
 
 /**
- * 设置目录最大高度
+ * Set the maximum height of the directory
  */
 function setContentMaxHeightInPC() {
     var windowHeight = window.innerHeight
@@ -50,7 +50,7 @@ function setContentMaxHeightInPC() {
 }
 
 /**
- * 达到最大高度
+ * Maximum height
  * @return {Boolean} [description]
  */
 function isMaxHeight() {
@@ -66,7 +66,7 @@ function isMaxHeight() {
 
 //-------------mobile--------------
 /**
- * 屏幕宽度小于770px时，点击锚点按钮，弹出目录框
+ * When the screen width is less than 770px, click the anchor button to pop up the directory box.
  * @param  {[type]} function( [description]
  * @return {[type]}           [description]
  */
@@ -76,7 +76,7 @@ function isMaxHeight() {
         var rightDiv = document.querySelector('.right')
 
         /**
-         * 监听锚点按钮
+         * Listening anchor button
          */
         anchorBtn.onclick = function(e) {
             e.stopPropagation()
@@ -84,19 +84,19 @@ function isMaxHeight() {
             anchorBtn.classList.add('anchor-hide')
         }
 
-        //监听body，点击body，隐藏Content
+        // monitor body. click body，Hide Content
         document.querySelector('body').addEventListener('click', function() {
             rightDiv.classList.remove('right-show')
             anchorBtn.classList.remove('anchor-hide')
         })
 
-        ancherPostion(anchorBtn, rightDiv) //目录锚的位置固定
-        setContentMaxHeight() //设置目录最大高度
+        ancherPostion(anchorBtn, rightDiv) // The location of the directory anchor is fixed
+        setContentMaxHeight() // Set the maximum height of the directory
     }
 }());
 
 /**
- * 目录锚的位置固定
+ * The location of the directory anchor is fixed
  */
 function ancherPostion(anchorBtn, rightDiv) {
     window.addEventListener('scroll', function() {
@@ -115,7 +115,7 @@ function ancherPostion(anchorBtn, rightDiv) {
 }
 
 /**
- * 设置目录最大高度
+ * Set the maximum height of the directory
  */
 function setContentMaxHeight() {
     var windowHeight = window.innerHeight
@@ -125,16 +125,16 @@ function setContentMaxHeight() {
 }
 
 //-------------post Content----------------------
-//将Content内容转移
+// transfer Content
 function moveTOC() {
     if (document.querySelector('#markdown-toc') !== null) {
         var TOCString = document.querySelector('#markdown-toc').innerHTML
         var contentUl = document.querySelector('#content-side')
-        contentUl.insertAdjacentHTML('afterbegin', TOCString) //插入字符串
+        contentUl.insertAdjacentHTML('afterbegin', TOCString) // Insert string
 
         // if (!isAndroidWechatBrowser()) {
 
-            //添加scroll样式，为了平滑滚动
+            // Add scroll style for smooth scrolling
             //add class "scroll", for smooth scroll
             var aTags = document.querySelectorAll('#content-side a')
 
@@ -157,7 +157,7 @@ function moveTOC() {
 }
 
 /**
- * 判断安卓版微信浏览器
+ * Judge the Android version of WeChat browser
  * @return {Boolean} [description]
  */
 function isAndroidWechatBrowser() {

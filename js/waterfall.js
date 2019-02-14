@@ -1,9 +1,9 @@
 /* jshint asi:true */
-//先等图片都加载完成
-//再执行布局函数
+// Wait for the image to be loaded first
+// Then execute the layout function
 
 /**
- * 执行主函数
+ * Execution main function
  * @param  {[type]} function( [description]
  * @return {[type]}           [description]
  */

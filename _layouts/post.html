@@ -64,8 +64,10 @@ layout: default
 
         {% include previousAndNext.html %}
 
-        <h2 id="comments">Comments</h2>
-        {% include comments.html %}
+        {% if page.nocomments != true %}
+            <h2 id="comments">Comments</h2>
+            {% include comments.html %}
+		{% endif %}
 
 
     </div>
@@ -85,7 +87,7 @@ layout: default
                     <li><a href="#comments">Comments</a></li>
                 </ul>
             </div>
-            <!-- 其他div框放到这里 -->
+            <!-- Other div boxes are placed here -->
             <!-- <div class="side">bbbb</div> -->
         </div>
     </div>
