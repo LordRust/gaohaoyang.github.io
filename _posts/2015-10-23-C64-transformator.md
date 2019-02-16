@@ -3,7 +3,7 @@ layout: post
 title: "C64 transformatorreparation"
 date: 2015-10-23"
 categories: commodore
-tags: c64 commodore tranformator
+tags: c64 commodore tranformator swedish
 ---
 ![](/images/C64_brick_thumb.jpg)
 

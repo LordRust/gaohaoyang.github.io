@@ -3,7 +3,7 @@ layout: post
 title: "Double feature!"
 date: 2015-09-22"
 categories: commodore
-tags: c64 commodore joystick
+tags: c64 commodore joystick swedish
 ---
 Inte samma jobb på denna, men håll till godo :) Man ska ju ge bort presenter på Hobbit day!
 

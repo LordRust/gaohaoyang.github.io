@@ -3,7 +3,7 @@ layout: post
 title: "C64 Suzo The Arcade joysticks"
 date: 2015-11-24
 categories: commodore
-tags: commodore c64 joystick
+tags: commodore c64 joystick swedish
 ---
 ![](/images/C64_joystickfix_thumb.jpg)
 

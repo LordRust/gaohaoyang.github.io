@@ -3,7 +3,7 @@ layout: post
 title: "C64 moderkortsrenovering"
 date: 2015-10-27"
 categories: commodore
-tags: c64 commodore modermodem
+tags: c64 commodore modermodem swedish
 ---
 ![](/images/C64__motherboard_thumb.jpg)
 
