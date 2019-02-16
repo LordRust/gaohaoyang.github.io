@@ -5,7 +5,7 @@ date: 2015-10-23"
 categories: commodore
 tags: c64 commodore tranformator
 ---
-![](/images/320px-Commodore-64-Computer-FL.jpg)
+![](/images/C64_brick_thumb.jpg)
 
 Okidoki, fick jobbat lite i elektronikverkstaden, och eftersom jag inte orkade sätta upp en videokamera så blir det text och bilder i stället.
 

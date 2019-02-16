@@ -5,7 +5,7 @@ date: 2015-10-27"
 categories: commodore
 tags: c64 commodore modermodem
 ---
-![](/images/320px-Commodore-64-Computer-FL.jpg)
+![](/images/C64__motherboard_thumb.jpg)
 
 Dags för nästa steg; elektrolytkondensatorer åldras inte alltid med äran i behåll som jag nog har nämnt tidigare. Jag bytte den i PSU’n men när vi ändå är i gång så kan jag lika gärna byta ut kondensatorerna på modermodemet också. Kvalitetskomponenter var ingen prioritering på Commodore Business Machines… Beställde kondensatorer (och några andra saker) för 5 GBP från den glada retroentusiasten [Phil Ruston i England](http://www.retroleum.co.uk/). Löda bort 29 år gammalt lödtenn var lite bökigare än vad jag trodde, men skam den som ger sig, jag blir bättre och bättre med tennsug och lödfläta. C&4'an har fått sig en rejäl uppfräschning nu och borde klara sig fint!
 

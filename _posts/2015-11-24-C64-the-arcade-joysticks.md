@@ -5,7 +5,7 @@ date: 2015-11-24
 categories: commodore
 tags: commodore c64 joystick
 ---
-![](/images/320px-Commodore-64-Computer-FL.jpg)
+![](/images/C64_joystickfix_thumb.jpg)
 
 * content
 {:toc}
