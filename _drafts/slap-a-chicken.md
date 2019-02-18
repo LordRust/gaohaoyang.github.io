@@ -10,6 +10,7 @@ mathjax: true
 {:toc}
 ## Uppdraget
 Den flitige läsaren Henrik Ljungström ställde frågan "Rörelseenergi kan som bekant omvandlas till värme. Så, hur hårt måste man örfila en rå kyckling för att tillaga den? Frågan förutsätter att endast en örfil utdelas."
+![](http://www.slapyodaddybbq.com/wp-content/uploads/DSC_7454.jpg)
 
 ## Förutsättningar
 En "normal" broilerkyckling ligger [mellan 650 och 1600 g](https://www.quora.com/Whats-the-average-weight-of-a-whole-chicken). Vi tänker oss att det är en fin kyckling på kilot.
@@ -28,6 +29,8 @@ $$
 Där m är massa, C*rho är specifika värmekapaciteten och delta-T är sluttemperatur-starttemperatur.
 
 Från detta får vi fram att det behövs 22,9 kJ för att tillaga vår kyckling. Det finns ett par rätt stora om och men här; framförallt förutsätter vi att *all* energi från örfilen övergår från kinetisk energi till värme. Det är såklart inte alls sant om inte en hel del omöjliga parametrar uppfylls, som att  kycklingen ska vara en sfärisk kropp utan friktion i ett vakuum o.s.v. Vi höftar till med att ca 5% blir värme, det är någon siffra jag minns svagt ifrån när vi pratade mekanik och hysteresarbete med stål under gymnasiet. Det betyder att vi då kommer att kräva 45,7 kJ energi från handen. Det motsvarar strax över [ett kilo TNT](https://en.wikipedia.org/wiki/TNT_equivalent).
+
+![](https://cdn2.img.sputniknews.com/images/15836/63/158366333.jpg)
 
 ## Hur fort behöver handen röra sig?
 Det är ju fint och så att veta att frågeställarens hand behöver röra sig fort nog för att orsaka samma effekt på kycklingen som ett kilo trotyl för att få den krispigt tillagad, men hur mycket behöver han gå på fäktning och öva snabbhet för komma upp i rätt hastighet på sin tass?
@@ -51,13 +54,15 @@ $$
 F=ma
 $$
 
-Detta ger oss 208 kN i kraft. Fast uppdragsgivaren känns lite mer traditionell så uttryckt i kilopond vid normal jordgravitation på g=9.81 blir det 21167 kilopond kraft.
+Detta ger oss 208 kN i kraft. Fast uppdragsgivaren känns lite mer traditionell så uttryckt i kilopond vid normal jordgravitation på g=9.81 blir det 21167 kilopond kraft. För advokater och samhällsverare kan det förtydligas att Kraften definieras som massan för ett kilogram under påverkan av jordaccelerationens dragningskraft. Kraften här motsvarar massan som mellan [3 och 8,5 afrikanska elefanter skulle kunna utöva](https://www.nationalgeographic.com/animals/mammals/a/african-elephant/).
 
 ## Alternativ till att smiska kycklingen själv
 
 Om vi tänker oss att en hastighet på 12 mach kanske blir oss övermänskligt så kan vi fundera på att Baumgartena vår kyckling och få den tillagad genom att släppa den från en hög höjd och låta smällen mot jorden göra jobbet?
 
-Men vi kan ju direkt se att en jord med atmosfär inte fungerar eftersom gränshastigheten för ett fritt fallande föremål i atmosfären är för låg - inom tävlingsdiciplinen [Speed skydiving](http://www.speed-skydiving.com/index.php/rankings) där svensken Henrik Rainer är rankad #1 med världsrekordet 601,26 km/h - d.v.s. mesiga 167 m/s. för att generera de nödiga 3024 m/s (vi har nu hela kilot från kycklingen som vikt och inte bara den lättare handen som ska föra över värmen) så kan vi applicera formeln
+Men vi kan ju direkt se att en jord med atmosfär inte fungerar eftersom gränshastigheten för ett fritt fallande föremål i atmosfären är för låg - inom tävlingsdiciplinen [Speed skydiving](http://www.speed-skydiving.com/index.php/rankings) där svensken Henrik Rainer är rankad #1 med världsrekordet 601,26 km/h - d.v.s. mesiga 167 m/s. Så för denna tillämning skull tänker vi oss att jordens atmosfär har blåst bort och att vi har ett vakuum här istället. [I dagsläget tappar jorden ca 90 ton atmosfär per dygn](https://phys.org/news/2016-07-curious-case-earth-leaking-atmosphere.html), men det kommer ändå ta ca 152 miljarder år att bli av med de 5*10e15 ton atmosfär som vi har. Men den som väntar på en god kyckling väntar kanske sällan för länge? 
+
+För att generera de nödiga 3024 m/s (vi har nu hela kilot från kycklingen som vikt och inte bara den lättare handen som ska föra över värmen) så kan vi applicera formeln
 
 $$
 v(t)=gt
@@ -71,7 +76,7 @@ $$
 
 Så vi behöver släppa kycklingen från en höjd av 466 km vilket blir strax utanför ISS omloppsbana på 403-407 km. Otrevligt med att inte ha en atmosfär, men i sådan värd så kan det regna stekta sparvar från himmelen!
 
-Eftersom beräkningarna börjar bli håriga när man ska ta hänsyn till uppvärmningen av kycklingen vid inträdet i atmosfären så hänvisar jag med varm hand till [Randall Munros fantastiska genomgång av hur man kan grilla en stek genom att släppa den i atmosfären](https://what-if.xkcd.com/28/).
+Eftersom beräkningarna börjar bli håriga när man ska ta hänsyn till uppvärmningen av kycklingen vid inträdet i atmosfären så hänvisar jag med varm hand till [Randall Munros fantastiska genomgång av hur man kan grilla en stek genom att släppa den i atmosfären](https://what-if.xkcd.com/28/). Läs denna What-if? och njut.
 
 Ett alternativ till att örfila kycklingen eller släppa den från hög höjd skulle kunna vara att skjuta den med hagel, men ett hagelskott ligger [endast på ca 4453 joule](http://wredlich.com/ny/2013/01/projectiles-muzzle-energy-stopping-power/). Värt att lägga märke till är dock att ett vapen som en hagelbrakare är riktigt bra till det här dock, 2,2x mer energi än en AK47 eller 6,6x mer än vad Dirty Harrys 357 Magnum kan prestera. Dock ser vi att vi hade behövt 1026 hagelskott i kycklingen innan den blivit varm nog och det blir för mycket hagel att rensa bort för att det ska vara gott att äta.
 
