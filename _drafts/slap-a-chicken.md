@@ -41,7 +41,7 @@ $$
 K=1/2*mV^2
 $$
 
-K är kinetisk energi, m är massa (på handen i detta fall) och V är hastigheten, så efter att applicera formeln så kan vi se att uppdragsgivaren behöver träna ordentligt för att nå de 4404 m/s som krävs. I andra ordalag så rör sig handen i mach 12,8 eller med 39 % av flykthastigheten från jorden (som är 11,2 km/s) så om handen råkar lossna vid försöket så kommer den att återvända till jordytan i alla fall.
+K är kinetisk energi, m är massa (på handen i detta fall) och V är hastigheten, så efter att applicera formeln så kan vi se att uppdragsgivaren behöver träna ordentligt för att nå de 4404 m/s som krävs. I andra ordalag så rör sig handen i mach 12,8 eller med 39 % av flykthastigheten från jorden (som är 11,2 km/s) så om handen råkar lossna vid försöket så kommer den att återvända till jordytan i alla fall. Detta skulle också kvala in som det [9'e snabbaste föremålet tillverkat av människor](https://themysteriousworld.com/top-10-fastest-man-made-objects-ever/) mellan rymdfärjan Colombia och NASAs experimentella flygplan "NASA X-43 A". Men kommer inte i närheten av en [900 kg tung stållucka](https://www.theregister.co.uk/2015/07/16/america_soviets_space_race/).
 
 ## Men hur *hårt* behöver man slå?
 Frågan var ju inte hur snabb man behöver vara med handen utan hur mycket kraft man behöver! Vi får då uppskatta en decelarationstid, d.v.s. hur lång tid tar det innan handen står still från sina 4404 m/s? Jag gjorde en SWAG och såg att det var ganska precis 0,01 s. Så vi applicerar [formel för acceleration](https://sciencing.com/equations-speed-velocity-acceleration-8407782.html) på problemet.
