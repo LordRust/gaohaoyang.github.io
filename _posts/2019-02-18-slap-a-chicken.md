@@ -9,8 +9,10 @@ mathjax: true
 * content
 {:toc}
 ## Uppdraget
-Den flitige läsaren Henrik Ljungström ställde frågan "Rörelseenergi kan som bekant omvandlas till värme. Så, hur hårt måste man örfila en rå kyckling för att tillaga den? Frågan förutsätter att endast en örfil utdelas."
+Den flitige läsaren Henrik Ljungström ställde frågan "Rörelseenergi kan som bekant omvandlas till värme. Så, hur hårt måste man örfila en rå kyckling för att tillaga den? Frågan förutsätter att endast en örfil utdelas." Här kommer vetenskapsmannens svar tillsammans med lite alternativ till att sopa till kycklingen med kardan.
 ![](/images/roastedchicken.jpg)
+
+
 
 ## Förutsättningar
 En "normal" broilerkyckling ligger [mellan 650 och 1600 g](https://www.quora.com/Whats-the-average-weight-of-a-whole-chicken). Vi tänker oss att det är en fin kyckling på kilot.
