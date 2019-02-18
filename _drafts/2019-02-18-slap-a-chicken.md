@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Slå en kyckling varm
+title: Örfila en kyckling tillagad
 categories: fragavetenskapsmannen
 tags:
 nocomments: false
