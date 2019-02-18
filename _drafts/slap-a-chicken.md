@@ -41,7 +41,9 @@ $$
 K=1/2*mV^2
 $$
 
-K är kinetisk energi, m är massa (på handen i detta fall) och V är hastigheten, så efter att applicera formeln så kan vi se att uppdragsgivaren behöver träna ordentligt för att nå de 4404 m/s som krävs. I andra ordalag så rör sig handen i mach 12,8 eller med 39 % av flykthastigheten från jorden (som är 11,2 km/s) så om handen råkar lossna vid försöket så kommer den att återvända till jordytan i alla fall. Detta skulle också kvala in som det [9'e snabbaste föremålet tillverkat av människor](https://themysteriousworld.com/top-10-fastest-man-made-objects-ever/) mellan rymdfärjan Colombia och NASAs experimentella flygplan "NASA X-43 A". Men kommer inte i närheten av en [900 kg tung stållucka](https://www.theregister.co.uk/2015/07/16/america_soviets_space_race/).
+K är kinetisk energi, m är massa (på handen i detta fall) och V är hastigheten, så efter att applicera formeln så kan vi se att uppdragsgivaren behöver träna ordentligt för att nå de 4404 m/s som krävs. I andra ordalag så rör sig handen i mach 12,8 eller med 39 % av flykthastigheten från jorden (som är 11,2 km/s) så om handen råkar lossna vid försöket så kommer den att återvända till jordytan i alla fall. Detta skulle också kvala in som det [9'e snabbaste föremålet tillverkat av människor](https://themysteriousworld.com/top-10-fastest-man-made-objects-ever/) mellan rymdfärjan Colombia och NASAs experimentella flygplan "NASA X-43 A". Men kommer inte i närheten av en [900 kg tung manhålslucka i stål](https://www.theregister.co.uk/2015/07/16/america_soviets_space_race/).
+
+
 
 ## Men hur *hårt* behöver man slå?
 Frågan var ju inte hur snabb man behöver vara med handen utan hur mycket kraft man behöver! Vi får då uppskatta en decelarationstid, d.v.s. hur lång tid tar det innan handen står still från sina 4404 m/s? Jag gjorde en SWAG och såg att det var ganska precis 0,01 s. Så vi applicerar [formel för acceleration](https://sciencing.com/equations-speed-velocity-acceleration-8407782.html) på problemet.
@@ -78,7 +80,7 @@ Så vi behöver släppa kycklingen från en höjd av 466 km vilket blir strax ut
 
 Eftersom beräkningarna börjar bli håriga när man ska ta hänsyn till uppvärmningen av kycklingen vid inträdet i atmosfären så hänvisar jag med varm hand till [Randall Munros fantastiska genomgång av hur man kan grilla en stek genom att släppa den i atmosfären](https://what-if.xkcd.com/28/). Läs denna What-if? och njut.
 
-Ett alternativ till att örfila kycklingen eller släppa den från hög höjd skulle kunna vara att skjuta den med hagel, men ett hagelskott ligger [endast på ca 4453 joule](http://wredlich.com/ny/2013/01/projectiles-muzzle-energy-stopping-power/). Värt att lägga märke till är dock att ett vapen som en hagelbrakare är riktigt bra till det här dock, 2,2x mer energi än en AK47 eller 6,6x mer än vad Dirty Harrys 357 Magnum kan prestera. Dock ser vi att vi hade behövt 1026 hagelskott i kycklingen innan den blivit varm nog och det blir för mycket hagel att rensa bort för att det ska vara gott att äta.
+Ett alternativ till att örfila kycklingen eller släppa den från hög höjd skulle kunna vara att skjuta den med hagel, men ett hagelskott ligger [endast på ca 4453 joule](http://wredlich.com/ny/2013/01/projectiles-muzzle-energy-stopping-power/). Värt att lägga märke till är dock att ett vapen som en hagelbrakare är riktigt bra till det här; 2,2x mer energi än en AK47 eller 6,6x mer än vad Dirty Harrys 357 Magnum kan prestera. Men vi hade behövt 1026 hagelskott i kycklingen innan den blivit varm nog och det blir för mycket hagel att rensa bort för att det ska vara gott att äta.
 
 ## Labba själv
 Vill du räkna själv på hur stor kyckling du vill laga, eller kanske se hur det fungerar på en annan planet så kan du labba själv i [detta google sheet](https://docs.google.com/spreadsheets/d/1KtW_w8Hv9mIb3e5EHV-JZRcpeGZbZks96jGU57Tvcpc/edit?usp=sharing) som jag gjorde mina beräkningar i.
