@@ -10,7 +10,7 @@ mathjax: true
 {:toc}
 ## Uppdraget
 Den flitige läsaren Henrik Ljungström ställde frågan "Rörelseenergi kan som bekant omvandlas till värme. Så, hur hårt måste man örfila en rå kyckling för att tillaga den? Frågan förutsätter att endast en örfil utdelas."
-![](http://www.slapyodaddybbq.com/wp-content/uploads/DSC_7454.jpg)
+![](/images/roastedchicken.jpg)
 
 ## Förutsättningar
 En "normal" broilerkyckling ligger [mellan 650 och 1600 g](https://www.quora.com/Whats-the-average-weight-of-a-whole-chicken). Vi tänker oss att det är en fin kyckling på kilot.
@@ -30,7 +30,7 @@ Där m är massa, C*rho är specifika värmekapaciteten och delta-T är sluttemp
 
 Från detta får vi fram att det behövs 22,9 kJ för att tillaga vår kyckling. Det finns ett par rätt stora om och men här; framförallt förutsätter vi att *all* energi från örfilen övergår från kinetisk energi till värme. Det är såklart inte alls sant om inte en hel del omöjliga parametrar uppfylls, som att  kycklingen ska vara en sfärisk kropp utan friktion i ett vakuum o.s.v. Vi höftar till med att ca 5% blir värme, det är någon siffra jag minns svagt ifrån när vi pratade mekanik och hysteresarbete med stål under gymnasiet. Det betyder att vi då kommer att kräva 45,7 kJ energi från handen. Det motsvarar strax över [ett kilo TNT](https://en.wikipedia.org/wiki/TNT_equivalent).
 
-![](https://cdn2.img.sputniknews.com/images/15836/63/158366333.jpg)
+![](/images/tnt.jpg)
 
 ## Hur fort behöver handen röra sig?
 Det är ju fint och så att veta att frågeställarens hand behöver röra sig fort nog för att orsaka samma effekt på kycklingen som ett kilo trotyl för att få den krispigt tillagad, men hur mycket behöver han gå på fäktning och öva snabbhet för komma upp i rätt hastighet på sin tass?
@@ -82,7 +82,7 @@ Eftersom beräkningarna börjar bli håriga när man ska ta hänsyn till uppvär
 
 Ett alternativ till att örfila kycklingen eller släppa den från hög höjd skulle kunna vara att skjuta den med hagel, men ett hagelskott ligger [endast på ca 4453 joule](http://wredlich.com/ny/2013/01/projectiles-muzzle-energy-stopping-power/). Värt att lägga märke till är dock att ett vapen som en hagelbrakare är riktigt bra till det här; 2,2x mer energi än en AK47 eller 6,6x mer än vad Dirty Harrys 357 Magnum kan prestera. Men vi hade behövt 1026 hagelskott i kycklingen innan den blivit varm nog och det blir för mycket hagel att rensa bort för att det ska vara gott att äta.
 
-![](https://p.keepcalm-o-matic.co.uk/render/tshirt-mens-v2/w-480/c-DF6426/keep-calm-and-slap-chickens-2.png?v2)
+![](/images/keep-calm-and-slap-chickens.png)
 
 ## Labba själv
 Vill du räkna själv på hur stor kyckling du vill laga, eller kanske se hur det fungerar på en annan planet så kan du labba själv i [detta google sheet](https://docs.google.com/spreadsheets/d/1KtW_w8Hv9mIb3e5EHV-JZRcpeGZbZks96jGU57Tvcpc/edit?usp=sharing) som jag gjorde mina beräkningar i.
