@@ -40,7 +40,7 @@ Det är ju fint och så att veta att frågeställarens hand behöver röra sig f
 Formeln för [att omvandla kinetisk energi till hastighet är:](http://ffden-2.phys.uaf.edu/211_fall2002.web.dir/shawna_sastamoinen/Velocity_and_Kinetic_Energy.htm)
 
 $$
-K=1/2*mV^2
+K=\frac{1}{2mV^2}
 $$
 
 K är kinetisk energi, m är massa (på handen i detta fall) och V är hastigheten, så efter att applicera formeln så kan vi se att uppdragsgivaren behöver träna ordentligt för att nå de 4404 m/s som krävs. I andra ordalag så rör sig handen i mach 12,8 eller med 39 % av flykthastigheten från jorden (som är 11,2 km/s) så om handen råkar lossna vid försöket så kommer den att återvända till jordytan i alla fall. Detta skulle också kvala in som det [9'e snabbaste föremålet tillverkat av människor](https://themysteriousworld.com/top-10-fastest-man-made-objects-ever/) mellan rymdfärjan Colombia och NASAs experimentella flygplan "NASA X-43 A". Men kommer inte i närheten av en [900 kg tung manhålslucka i stål](https://www.theregister.co.uk/2015/07/16/america_soviets_space_race/).
@@ -51,7 +51,7 @@ K är kinetisk energi, m är massa (på handen i detta fall) och V är hastighet
 Frågan var ju inte hur snabb man behöver vara med handen utan hur mycket kraft man behöver! Vi får då uppskatta en decelarationstid, d.v.s. hur lång tid tar det innan handen står still från sina 4404 m/s? Jag gjorde en SWAG och såg att det var ganska precis 0,01 s. Så vi applicerar [formel för acceleration](https://sciencing.com/equations-speed-velocity-acceleration-8407782.html) på problemet.
 
 $$
-a=\Delta v / \Delta t
+a=\frac{\Delta v}{\Delta t}
 $$
 
 $$
@@ -75,7 +75,7 @@ $$
 Så efter 308 sekunder har vi nått rätt hastighet
 
 $$
-X=gt^2/2
+X=\frac{gt^2}{2}
 $$
 
 Så vi behöver släppa kycklingen från en höjd av 466 km vilket blir strax utanför ISS omloppsbana på 403-407 km. Otrevligt med att inte ha en atmosfär, men i sådan värd så kan det regna stekta sparvar från himmelen!
